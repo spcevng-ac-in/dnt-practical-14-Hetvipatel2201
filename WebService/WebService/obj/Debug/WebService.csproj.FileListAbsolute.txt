@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\WebService\WebService\bin\WebService.dll
+c:\users\dell\documents\visual studio 2010\Projects\WebService\WebService\bin\WebService.pdb
+c:\users\dell\documents\visual studio 2010\Projects\WebService\WebService\obj\Debug\WebService.dll
+c:\users\dell\documents\visual studio 2010\Projects\WebService\WebService\obj\Debug\WebService.pdb
